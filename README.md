@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romano001&show_icons=true&theme=tokyonight&locale=en"/></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romano001&show_icons=true&theme=tokyonight&locale=en&layout=compact"/></p>
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+
+### My stats 🔥
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romano001&show_icons=true&theme=tokyonight&locale=en"/></p>
+<p align="left">&nbsp;<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=romano001&theme=tokyonight&background=000000"/></p>
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romano001&show_icons=true&theme=tokyonight&locale=en&layout=compact"/></p>
 
 
 <!--
