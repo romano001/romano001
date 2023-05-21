@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romano001&show_icons=true&theme=tokyonight&locale=en"/></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romano001&show_icons=true&theme=tokyonight&locale=en&layout=compact"/></p>
+
+
 <!--
 **romano001/romano001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
