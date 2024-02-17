@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/fe00a5d9-a79d-476c-8188-ddd83020cd9f.svg)](https://wakatime.com/@fe00a5d9-a79d-476c-8188-ddd83020cd9f)
+
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
 ### My stats 🔥
